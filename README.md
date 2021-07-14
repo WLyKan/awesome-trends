@@ -16,4 +16,4 @@ trends is an abstract summary of the world. this is a collection of trends site.
 
 ## list
 
-- [npm trends](https://www.npmtrends.com/){target="_blank"}: Compare NPM package downloads
+- [npm trends](https://www.npmtrends.com/?_blank): Compare NPM package downloads
