@@ -1,12 +1,10 @@
 <div align="center">
-  <img width="500" height="350" src="media/logo.svg" alt="Awesome">
+  <img width="500" height="350" src="https://github.com/sindresorhus/awesome/blob/main/media/logo.svg" alt="Awesome">
   <br>
   <h1>Awesome Trends</h1>
 
-<a href="#resources"></a>
+  <a href="#resources"></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://nestjs.com">nestjs 官网</a>
-
   <a href="https://awesome.re">
     <img src="https://awesome.re/badge.svg" alt="Awesome">
   </a>
@@ -14,7 +12,7 @@
 
 # awesome-trends
 
-trends is a of real world. this is a collection of trends site.
+trends is an abstract summary of the world. this is a collection of trends site.
 
 ## list
 
