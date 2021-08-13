@@ -17,3 +17,5 @@ trends is an abstract summary of the world. this is a collection of trends site.
 ## list
 
 - [npm trends](https://www.npmtrends.com/?_blank): Compare NPM package downloads
+- [javascript language trends](https://www.jetbrains.com/lp/devecosystem-2021/javascript/): jetbrains
+- 
